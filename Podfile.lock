@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Gloss (2.0.1)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, tag `4.6.0`)
+  - Gloss (~> 2.0.1)
+  - SDWebImage (from `https://github.com/rs/SDWebImage.git`, tag `4.2.2`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`, tag `4.0.0`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Gloss
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.6.0
+  SDWebImage:
+    :git: https://github.com/rs/SDWebImage.git
+    :tag: 4.2.2
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+    :tag: 4.0.0
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.6.0
+  SDWebImage:
+    :git: https://github.com/rs/SDWebImage.git
+    :tag: 4.2.2
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+    :tag: 4.0.0
+
+SPEC CHECKSUMS:
+  Alamofire: 0dda98a0ed7eec4bdcd5fe3cdd35fcd2b3022825
+  Gloss: 1e8743f8de1fbe14a97f220ff901cba91ae5f8f8
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SwiftyJSON: 8cd73b154950360d79292a8dc8c0d0a85d258930
+
+PODFILE CHECKSUM: 38292281fdfcf07a95fffe320ce55ae8e10ee41a
+
+COCOAPODS: 1.6.0.beta.1
